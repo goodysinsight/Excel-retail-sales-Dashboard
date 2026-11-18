@@ -1,4 +1,4 @@
-# Retail Sales Performance Dashboard (Excel)
+# Retail Sales Performance Analysis Using Excel
 
 https://github.com/goodysinsight/Excel-retail-sales-Dashboard/blob/main/dashboard.png
 
