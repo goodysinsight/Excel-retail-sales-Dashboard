@@ -1,6 +1,6 @@
 # Retail Sales Performance Dashboard (Excel)
 
-![Dashboard](screens
+https://github.com/goodysinsight/Excel-retail-sales-Dashboard/blob/main/dashboard.png
 
 ## Business question
 
