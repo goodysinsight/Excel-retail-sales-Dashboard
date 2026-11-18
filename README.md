@@ -38,7 +38,7 @@ The dataset has no product cost or reason for discounting, so these findings sho
 
 ## Files
 
-`Retail_sales_dashboard.xlsx` contains the raw data, the cleaned Table, the PivotTables and the dashboard. Screenshots are in the `screenshots` folder.
+`Retail sales performance dashboard.xlsx` contains the raw data, the cleaned Table, the PivotTables and the dashboard. Screenshots are in the `dashboard.png` folder.
 
 ## Tools
 
